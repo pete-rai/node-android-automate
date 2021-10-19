@@ -1,0 +1,29 @@
+{
+  "name": "android-automate",
+  "version": "1.0.0",
+  "description": "Automate tasks on your Android device using simple, flexible function chains.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pete-rai/node-android-automate.git"
+  },
+  "keywords": [
+    "android",
+    "automation",
+    "mobile"
+  ],
+  "author": "Pete Rai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pete-rai/node-android-automate/issues"
+  },
+  "homepage": "https://github.com/pete-rai/node-android-automate#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "sharp": "^0.29.1"
+  }
+}
