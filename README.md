@@ -48,7 +48,7 @@ It should be noted that many of the available methods are asynchronous in nature
 
 You will find lots of small examples of using ```android-automate``` within in this document. In addition to these, you can also examine one large demonstration application - a program which automatically plays the popular mobile puzzle game [FlowFree](https://www.bigduckgames.com/flowfree).
 
-> http://www TODO
+> https://github.com/pete-rai/flowfree-player
 
 ### License
 
