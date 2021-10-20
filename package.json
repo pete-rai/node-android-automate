@@ -1,6 +1,6 @@
 {
   "name": "android-automate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automate tasks on your Android device using simple, flexible function chains.",
   "main": "index.js",
   "scripts": {
