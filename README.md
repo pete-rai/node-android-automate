@@ -1,4 +1,4 @@
-awaitingmachineachievegiven# node-android-automate
+# node-android-automate
 
 > Visit my [Blog](http://pete.rai.org.uk/) to get in touch or to see demos of this and much more.
 
