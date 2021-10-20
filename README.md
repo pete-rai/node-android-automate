@@ -26,6 +26,10 @@ This node module allows you to automate tasks on your Android device using simpl
 
 > If you use this module, please do [get in touch](http://pete.rai.org.uk/) and let me know what you built and how you got on.
 
+The module is available as an official node package manager repo:
+
+> https://www.npmjs.com/package/android-automate
+
 Here is an example of a function chain which opens the default browser, visits a website, scroll down a bit, takes a screen shot, crops and greyscales it and then reads any text therein.
 
 ```javascript
